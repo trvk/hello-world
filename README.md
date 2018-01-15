@@ -1,2 +1,3 @@
 # hello-world
-Just tesy
+Just a test
+I'm hobbist
